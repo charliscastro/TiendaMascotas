@@ -1,0 +1,9 @@
+{
+  "sendgrid": {
+    "connector": "loopback-sendgrid-connector",
+    "api_key": "API SENGRID",
+    "from": "CORREO VERIFICADO SENDGRID"
+  }
+
+}
+
